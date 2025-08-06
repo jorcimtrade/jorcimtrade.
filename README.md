@@ -13,3 +13,6 @@
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
 
+<a href="https://instagram.com/tu-usuario">
+  <img src="https://media.giphy.com/media/3o7TKsrf0d3jHsQlHi/giphy.gif" width="30" alt="Instagram GIF">
+</a>

@@ -1,5 +1,5 @@
 #¡Olá! 👋 Sou [jorcimtrade.]  🚀 Desenvolvedor Full Stack | Apaixonado pela tecnologia 💡 Me encanta criar soluções inovadoras e aprender coisas novas.   🌍 Baseado na sua cidade/país.]
-📫 Meu portfólio: instagram.com/jocieldodias
+
 ### 📫 Como entrar em contato comigo?
 -  📸 (https://www.instagram.com/
 - 📺 "YouTube":https://www.youtube.com/@loucotrade01

@@ -2,7 +2,7 @@
 📫 Meu portfólio: instagram.com/jocieldodias
 ### 📫 Como entrar em contato comigo?
 - 📧 **E-mail**: [jorce_dias@hotmail.com](jorcimcrip@gmail.com)
-- 📺 [YouTube]https://www.youtube.com/@loucotrade01
+- 📺 "YouTube"":https://www.youtube.com/@loucotrade01
 - 📸 (https://www.instagram.com/
 -  ### 🔧 Tecnologías y herramientas
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
